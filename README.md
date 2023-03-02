@@ -24,7 +24,7 @@
 * [11] Pwn - Windows.
 
 
->Note: Kernel should read CVE => report => modern hơn | kernel Pwn2Own - nyancat đọc CVE xong variant hunting 
+>Note: Kernel read CVE => report => modern hơn | kernel Pwn2Own - đọc CVE xong variant hunting.
 
 >Browser v8 pwn - state of the art exploit.
 
