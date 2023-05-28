@@ -2,4 +2,4 @@
 
 >Loading...
 
-__[+]__ https://hackmd.io/@HuyTrnTrng1
+__[+]__ https://hackmd.io/@HuyTrnTrng1 - CVE
