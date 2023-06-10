@@ -1,4 +1,4 @@
-# Proof of concept.
+# Proof of concept
 
 >Loading...
 
