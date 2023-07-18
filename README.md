@@ -8,4 +8,4 @@ __[+]__ https://gitlab.com/trantronghuy0706 - Gitlab
 
 __[+]__ Bounty Platform:
 - https://google.github.io/security-research/kernelctf/rules.html
-- 
+- ...
