@@ -2,15 +2,15 @@
 
 > Proof of concept
 
-__[+]__ WP CVE:
+__[+]__ `WP CVE`:
 
-- `CVE`: https://hackmd.io/@HuyTrnTrng1 .
-- `Gitlab`: https://gitlab.com/trantronghuy0706 .
+- CVE: https://hackmd.io/@HuyTrnTrng1 .
+- Gitlab: https://gitlab.com/trantronghuy0706 .
 
-__[+]__ Bounty Platform:
+__[+]__ `Bounty Platform`:
 - [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc/bounty)
 - [Google bounty](https://google.github.io/security-research/kernelctf/rules.html)
 
-__[+]__ Event Hacking: 
+__[+]__ `Event Hacking`: 
 - __Tianfucup__
 - __Pwn2Own__
