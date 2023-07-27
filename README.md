@@ -4,8 +4,8 @@
 
 __[+]__ `WP CVE`:
 
-- CVE: https://hackmd.io/@HuyTrnTrng1 .
-- Gitlab: https://gitlab.com/trantronghuy0706 .
+- __CVE:__ https://hackmd.io/@HuyTrnTrng1 .
+- __Gitlab:__ https://gitlab.com/trantronghuy0706 .
 
 __[+]__ `Bounty Platform`:
 - [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc/bounty)
