@@ -2,7 +2,7 @@
 
 > Proof of concept
 
-__[+]__ `WP CVE`:
+__[+]__ `Writeup CVE`:
 
 - __CVE:__ https://hackmd.io/@HuyTrnTrng1 .
 - __Gitlab:__ https://gitlab.com/trantronghuy0706 .
