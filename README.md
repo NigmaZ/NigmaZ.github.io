@@ -1,6 +1,6 @@
 # Nigmaz.github.io
 
-> Proof of concept
+> Proof of concept RCE/LPE/SBX/fullchain
 
 __[+]__ `Writeup CVE`:
 
