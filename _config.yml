@@ -1,0 +1,11 @@
+title: Nigmaz Blog
+description: "Chào mừng đến với blog của tôi"
+baseurl: "" # Chỉ định baseurl nếu cần
+url: "https://nigmaz.github.io"
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Các thiết lập khác
+markdown: kramdown
